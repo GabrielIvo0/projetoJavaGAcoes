@@ -1,0 +1,6 @@
+com\ivo\core\Periodo.class
+com\ivo\data\LeitorCSV.class
+com\ivo\tools\Grafico.class
+com\ivo\ui\InterfaceG.class
+com\ivo\core\PontosDaAcao.class
+com\ivo\core\Candle.class
